@@ -1,7 +1,7 @@
 #### Please add your answers to the ***Analysis of  Algorithms*** exercises here.
 
 ## Exercise I
-a) O(N) Linear 
+a) O(N)
 Time taken will grow along with input for loop, the relationship is linear
 
 
